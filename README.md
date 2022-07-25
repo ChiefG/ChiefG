@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Haze ( ChiefG )</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Audiontop&label=Profile%20views&color=0e75b6&style=flat" alt="noelistired" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ChiefG&label=Profile%20views&color=0e75b6&style=flat" alt="noelistired" /> </p>
 
 - 🔭 I’m currently working on **Tools**
 
@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChiefG&show_icons=true&locale=en&layout=compact" alt="ChiefG" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Audiontop&show_icons=true&locale=en" alt="Audiontop" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChiefG&show_icons=true&locale=en" alt="ChiefG" /></p>
