@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Tiktok Autoclaimer**
 
-- 🌱 I’m currently learning **Postman,Python,C# and HTML**
+- 🌱 I’m currently learning **Python,C# and HTML**
 
 - ⚡ Fun fact **I am the richest guy on Telegram (joke)**
 
